@@ -8,5 +8,6 @@ En este curso vemos de todo:
 * El flujo de trabajo en github
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
+* Creado para pruebas
 
 Y como un amable recordario: **Este readme.md es un chiste**. Diseñado para el ejemplo.
