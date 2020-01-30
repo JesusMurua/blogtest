@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Creado para pruebas
+* Incluye varios ejemplos
 
 Y como un amable recordario: **Este readme.md es un chiste**. Diseñado para el ejemplo.
